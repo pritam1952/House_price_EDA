@@ -55,9 +55,14 @@ This project performs exploratory data analysis on the [Kaggle House Prices data
 
 ---
 
-## 📥 How to Run
+## ▶️ Usage
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/house-price-eda.git
-   cd house-price-eda
+Open `House_price_EDA.ipynb` in Jupyter Notebook or any notebook viewer to explore the analysis.
+
+Make sure you have `train.csv` and `test.csv` from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) in the same folder.
+
+---
+
+## 🧠 Author
+
+Made by [pritam1952](https://github.com/pritam1952) — learning Data Science one project at a time 🚀
